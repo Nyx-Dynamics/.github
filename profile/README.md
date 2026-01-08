@@ -1,63 +1,61 @@
-# 🧬 Nyx Dynamics
+<div align="center">
+
+# Nyx Dynamics
 
 **Quantum · Geometry · Resilience**
 
-Welcome to the official GitHub for **Nyx Dynamics** — a research initiative focused on the intersection of quantum biology, spatial computation, and systems neuroscience. We develop theoretical and computational models that explore how geometric structures preserve information in complex biological systems.
+*Investigating how geometric structures preserve information in complex biological systems*
+
+[![Website](https://img.shields.io/badge/Website-nyxdynamics.org-blue)](https://www.nyxdynamics.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nyx%20Dynamics-0077B5)](https://www.linkedin.com/company/nyx-dynamics-llc)
+
+</div>
 
 ---
 
-## 🎯 Mission
+## About
 
-At Nyx Dynamics, we investigate:
+Nyx Dynamics is a research initiative at the intersection of quantum biology, spatial computation, and systems neuroscience. We develop theoretical and computational models exploring quantum coherence preservation in biological environments.
 
-- Quantum coherence in biological environments  
-- Nonuniform geometries (e.g., Fibonacci scaling) as protective mechanisms  
-- Resilience of microtubular systems under inflammatory stress  
-- Phase-specific coherence preservation in neuroimmune contexts (e.g., HAND, HIV, fever)
-
----
-
-## 📁 Active Projects
-
-| Project | Description |
-|--------|-------------|
-| [Tegmark’s Cat](https://github.com/yourusername/nyx-dynamics-tegmarks-cat) | Computational model showing power-law coherence preservation in Fibonacci-structured microtubules under acute HIV inflammation |
-| _More coming soon..._ | Spiral coherence maps, neuroimmune decoherence indices, etc. |
+**Research Focus:**
+- Quantum coherence in biological systems
+- Fibonacci-scaled geometric protective mechanisms
+- Microtubular resilience under inflammatory stress
+- Phase-specific coherence in neuroimmune contexts (HAND, HIV, fever)
 
 ---
 
-## 📖 Publications
+## Featured Projects
 
-Coming soon:  
-📝 *Tegmark’s Cat: Power-Law Quantum Coherence Preservation...* — _Manuscript submitted to Entropy_
-
----
-
-## 🤝 Contact & Collaboration
-
-Interested in collaborating, reproducing results, or extending this work into clinical or computational frameworks?  
-Contact: **A.C Demidont, DO**  
-✉️ acddemidont@nyxdynamics.com  
-Linkedin: www.linkedin.com/company/nyx-dynamics-llc
-🔗 [ORCID](https://orcid.org/0000-0002-XXXX-XXXX)
-SciProfiles: https://sciprofiles.com/profile/acdemidont
+| Project | Description | Status |
+|---------|-------------|--------|
+| [**LAI-PrEP Bridge Tool**](https://github.com/Nyx-Dynamics/lai-prep-bridge-tool-pub) | Clinical decision support for LAI-PrEP bridge periods — validated at UNAIDS scale (21.2M patients) | Active |
+| **Prevention Theorem** | Time-dependent constraints on post-exposure prophylaxis for HIV | Active |
+| **HIV Prevention PWID** | Structural barriers to HIV prevention among people who inject drugs — AIDS and Behavior manuscript | Active |
+| **Noise Decorrelation HIV** | Noise-mediated neuroprotection during acute HIV infection | Active |
 
 ---
 
-## 🧠 Philosophy
+## Publications
 
-> "We study the edge between collapse and preservation — and the structures that hold the line."
+*Tegmark's Cat: Power-Law Quantum Coherence Preservation in Fibonacci-Structured Microtubules* — Manuscript in preparation
 
---- 
+---
 
-**© 2024 Nyx Dynamics** | MIT or CC-BY License (choose based on project)
-<!--
+## Contact
 
-**Here are some ideas to get you started:**
+**AC Demidont, DO**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[![Email](https://img.shields.io/badge/Email-acdemidont%40nyxdynamics.org-red)](mailto:acdemidont@nyxdynamics.org)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--9216--8569-green)](https://orcid.org/0000-0002-9216-8569)
+[![SciProfiles](https://img.shields.io/badge/SciProfiles-acdemidont-orange)](https://sciprofiles.com/profile/acdemidont)
+
+---
+
+<div align="center">
+
+*"We study the edge between collapse and preservation — and the structures that hold the line."*
+
+**© 2025 Nyx Dynamics LLC** | MIT License
+
+</div>
