@@ -29,27 +29,28 @@ Modeling algorithmic discrimination as an epidemiological process. Demonstrating
 ### HIV Prevention Science
 Formalizing the biological feasibility constraints on HIV prevention. Demonstrating that prevention failures among marginalized populations reflect structural architecture, not individual behavior.
 
+### HIV Neuroscience
+Computational modeling of the acute-phase protective paradox in HIV-associated neurocognitive disorders. Applying quantum coherence frameworks and hierarchical Bayesian inference to explain why acute infection preserves cognition despite peak viral load.
+
 ### Computational Justice
 Developing quantitative frameworks for civil rights analysis. Translating biological timing constraints into policy recommendations.
 
 ---
 
-## Featured Projects
+## Research Publications
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| [**Algorithmic Bias Epidemiology**](https://github.com/Nyx-Dynamics/Algorithmic_Bias_Epidemiology) | Life Success Prevention Theorem — algorithmic discrimination modeled as infection dynamics | Active |
-| [**LAI-PrEP Bridge Tool**](https://github.com/Nyx-Dynamics/lai-prep-bridge-tool-pub) | Clinical decision support validated at UNAIDS scale (21.2M patients) | Published |
-| **HIV Prevention PWID** | Structural barriers analysis — *AIDS and Behavior* submission | Under Review |
-| **Prevention Theorem** | Mathematical constraints on achieving R₀=0 — *Epidemics* submission | Under Review |
+> **1 accepted** · **5 under review/screening** · **6 total**
 
----
+| Manuscript | Status | Preprint | Journal | Repository |
+|:-----------|:------:|:--------:|:-------:|:----------:|
+| **Computational Validation of a CDS Algorithm for LAI-PrEP Bridge Period Navigation at UNAIDS Global Target Scale** | ✅ Accepted | — | *Viruses* (MDPI) | [lai-prep-bridge-tool-pub](https://github.com/Nyx-Dynamics/lai-prep-bridge-tool-pub) |
+| **Finite Prevention Windows Under Irreversible Infection Establishment: A Mathematical Framework for HIV PEP Timing** | 🔬 Under Review | [Preprints.org](https://doi.org/10.20944/preprints202601.1090.v1) | *J Infect Dis* | [Prevention-Theorem](https://github.com/Nyx-Dynamics/Prevention-Theorem) |
+| **Structural Barriers, Stochastic Avoidance, and Outbreak Risk in HIV Prevention for PWID: A Monte Carlo Simulation Study** | 🔬 Peer Review | [Preprints.org](https://doi.org/10.20944/preprints202601.0948.v1) | *BMC Public Health* | [HIV_Prevention_PWID](https://github.com/Nyx-Dynamics/HIV_Prevention_PWID) |
+| **Noise Decorrelation as a Hypothetical Mechanism for Phase-Specific Neurometabolic Outcomes in HIV Infection** | 📋 Screening | [bioRxiv](https://doi.org/10.1101/2026.02.13.703895) | *PLOS Comp Bio* (pending transfer) | [noise_decorrelation_hiv](https://github.com/Nyx-Dynamics/noise_decorrelation_hiv) |
+| **Algorithmic Discrimination as a Synergistic Barrier System: A Quantitative Interaction-Dominant Model** | 📋 Screening | [bioRxiv](https://doi.org/10.1101/2026.02.13.705799) | *PLOS ONE* (pending transfer) | [algorithmic-bias-epidemiology-academic](https://github.com/Nyx-Dynamics/algorithmic-bias-epidemiology-academic) |
+| **Bridging the Gap: The PrEP Cascade Paradigm Shift for Long-Acting Injectable HIV Prevention** | 🔬 Major Revisions | [Preprints.org](https://doi.org/10.20944/preprints202512.2354.v1) | *Viruses* (MDPI) | [bridging_the_gap](https://github.com/Nyx-Dynamics/bridging_the_gap) |
 
-## Key Publications & Manuscripts
-
-- *Structural Barriers, Stochastic Avoidance, and Outbreak Risk in HIV Prevention for People Who Inject Drugs* — AIDS and Behavior (submitted)
-- *The HIV Prevention Theorem: Mathematical Constraints on Achieving R₀=0* — Epidemics (submitted)
-- *LAI-PrEP Bridge Tool: Clinical Decision Support for Injectable PrEP Transitions* — Published
+**Status Key:** ✅ Accepted · 🔬 Peer Review / Under Review / Major Revisions · 📋 Screening
 
 ---
 
@@ -58,15 +59,26 @@ Developing quantitative frameworks for civil rights analysis. Translating biolog
 <div align="center">
 
 ```
-R₀(e) = 0 requires intervention BEFORE proviral integration.
-Opportunity = 100% requires intervention BEFORE data integration.
-
-After integration: treatment only, prevention impossible.
+Once proviral integration is complete, no intervention restores the uninfected state.
+Once data integration is complete, no intervention restores lost opportunity.
+PEP efficacy decays monotonically to zero. The window is finite. The math is identical.
 ```
 
 </div>
 
-This principle unifies our work across biological and institutional systems.
+Prevention has a deadline. After irreversible integration — biological or algorithmic — only treatment remains. This principle unifies our work across biological and institutional systems.
+
+---
+
+## Reproducibility
+
+All research repositories include full reproducibility suites with fixed random seeds, dependency pinning, and end-to-end automation.
+
+```bash
+git clone https://github.com/Nyx-Dynamics/<repo-name>.git
+pip install -r requirements.txt
+# See individual repo README for reproduction commands
+```
 
 ---
 
@@ -85,5 +97,7 @@ Founder & Principal Investigator
 *"We study the mathematics of irreversibility — and the narrow windows where prevention remains possible."*
 
 **© 2026 Nyx Dynamics LLC**
+
+*Last updated: February 14, 2026*
 
 </div>
