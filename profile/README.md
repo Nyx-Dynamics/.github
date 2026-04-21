@@ -35,22 +35,30 @@ Computational modeling of the acute-phase protective paradox in HIV-associated n
 ### Computational Justice
 Developing quantitative frameworks for civil rights analysis. Translating biological timing constraints into policy recommendations.
 
+### Quantum Biology
+Computational modeling of quantum coherence preservation in Fibonacci-structured microtubules during HIV-induced neuroinflammation. Proposing a geometric-quantum mechanism for the HAND cognitive paradox.
+
+### Meta-Research
+Quantitative audit of editorial gatekeeping at major US medical journals. Measuring the gap between ML/AI competence and publication decisions.
+
 ---
 
 ## Research Publications
 
-> **1 accepted** · **5 under review/screening** · **6 total**
+> **2 published** · **5 active submissions** · **7 active research programs**
 
 | Manuscript | Status | Preprint | Journal | Repository |
 |:-----------|:------:|:--------:|:-------:|:----------:|
-| **Computational Validation of a CDS Algorithm for LAI-PrEP Bridge Period Navigation at UNAIDS Global Target Scale** | ✅ Accepted | — | *Viruses* (MDPI) | [lai-prep-bridge-tool-pub](https://github.com/Nyx-Dynamics/lai-prep-bridge-tool-pub) |
-| **Finite Prevention Windows Under Irreversible Infection Establishment: A Mathematical Framework for HIV PEP Timing** | 🔬 Under Review | [Preprints.org](https://doi.org/10.20944/preprints202601.1090.v1) | *J Infect Dis* | [Prevention-Theorem](https://github.com/Nyx-Dynamics/Prevention-Theorem) |
-| **Structural Barriers, Stochastic Avoidance, and Outbreak Risk in HIV Prevention for PWID: A Monte Carlo Simulation Study** | 🔬 Peer Review | [Preprints.org](https://doi.org/10.20944/preprints202601.0948.v1) | *BMC Public Health* | [HIV_Prevention_PWID](https://github.com/Nyx-Dynamics/HIV_Prevention_PWID) |
-| **Noise Decorrelation as a Hypothetical Mechanism for Phase-Specific Neurometabolic Outcomes in HIV Infection** | 📋 Screening | [bioRxiv](https://doi.org/10.1101/2026.02.13.703895) | *PLOS Comp Bio* (pending transfer) | [noise_decorrelation_hiv](https://github.com/Nyx-Dynamics/noise_decorrelation_hiv) |
-| **Algorithmic Discrimination as a Synergistic Barrier System: A Quantitative Interaction-Dominant Model** | 📋 Screening | [bioRxiv](https://doi.org/10.1101/2026.02.13.705799) | *PLOS ONE* (pending transfer) | [algorithmic-bias-epidemiology-academic](https://github.com/Nyx-Dynamics/algorithmic-bias-epidemiology-academic) |
-| **Bridging the Gap: The PrEP Cascade Paradigm Shift for Long-Acting Injectable HIV Prevention** | 🔬 Major Revisions | [Preprints.org](https://doi.org/10.20944/preprints202512.2354.v1) | *Viruses* (MDPI) | [bridging_the_gap](https://github.com/Nyx-Dynamics/bridging_the_gap) |
+| **Computational Validation of a CDS Algorithm for LAI-PrEP Bridge Period Navigation at UNAIDS Global Target Scale** | ✅ Published | [DOI](https://doi.org/10.3390/v18020237) | *Viruses* (MDPI) | [lai-prep-bridge-tool-pub](https://github.com/Nyx-Dynamics/lai-prep-bridge-tool-pub) |
+| **Bridging the Gap: The PrEP Cascade Paradigm Shift for Long-Acting Injectable HIV Prevention** | ✅ Published | [Preprints.org](https://doi.org/10.20944/preprints202512.2354.v1) · [DOI](https://doi.org/10.3390/v18030336) | *Viruses* (MDPI) | [bridging_the_gap](https://github.com/Nyx-Dynamics/bridging_the_gap) |
+| **Finite Prevention Windows Under Irreversible Infection Establishment: A Mathematical Framework for HIV PEP Timing** | 📋 Desk Review | [Preprints.org](https://doi.org/10.20944/preprints202601.1090.v1) | *Science Advances* | [Prevention-Theorem](https://github.com/Nyx-Dynamics/Prevention-Theorem) |
+| **Quantum Coherence Preservation in Fibonacci-Structured Microtubules During HIV-Induced Neuroinflammation** | 📄 Preprint | [bioRxiv](https://doi.org/10.1101/2025.06.08.658222) · [Zenodo](https://doi.org/10.5281/zenodo.15601418) · 487 downloads | — | — |
+| **Quantitative Competence and Editorial Gatekeeping at Major US Medical Journals** | 🔬 Under Review | [Zenodo](https://doi.org/10.5281/zenodo.18826439) | *BMJ* | [eic-ml-audit](https://github.com/Nyx-Dynamics/eic-ml-audit) |
+| **Structural Barriers, Stochastic Avoidance, and Outbreak Risk in HIV Prevention for PWID: A Monte Carlo Simulation Study** | 🔬 Under Review | [Preprints.org](https://doi.org/10.20944/preprints202601.0948.v1) · 134 downloads | *BMC Public Health* | [HIV_Prevention_PWID](https://github.com/Nyx-Dynamics/HIV_Prevention_PWID) |
+| **Noise Correlation Length Distinguishes Neurometabolic Protection from Vulnerability Across HIV Infection Phases** | 🔬 Under Review | [medRxiv](https://doi.org/10.64898/2026.02.10.703895) | *eLife* | [noise_decorrelation_hiv](https://github.com/Nyx-Dynamics/noise_decorrelation_hiv) |
+| **Algorithmic Discrimination as a Synergistic Barrier System: A Quantitative Interaction-Dominant Model** | 🔬 Under Review | [medRxiv](https://doi.org/10.64898/2026.02.22.26346836) · [Zenodo](https://doi.org/10.5281/zenodo.18746745) | *PLOS Digital Health* | [algorithmic-bias-epidemiology-academic](https://github.com/Nyx-Dynamics/algorithmic-bias-epidemiology-academic) |
 
-**Status Key:** ✅ Accepted · 🔬 Peer Review / Under Review / Major Revisions · 📋 Screening
+**Status Key:** ✅ Published · 📋 Desk Review · 📄 Preprint · 🔬 Under Review
 
 ---
 
@@ -98,6 +106,6 @@ Founder & Principal Investigator
 
 **© 2026 Nyx Dynamics LLC**
 
-*Last updated: February 14, 2026*
+*Last updated: April 21, 2026*
 
 </div>
