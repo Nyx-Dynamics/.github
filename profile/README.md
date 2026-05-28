@@ -2,12 +2,13 @@
 
 # Nyx Dynamics
 
-**Epidemiology · Computation · Justice**
+### Epidemiology · Computation · Justice
 
 *Formalizing the mathematics of structural harm*
 
-[![Website](https://img.shields.io/badge/Website-nyxdynamics.org-blue)](https://www.nyxdynamics.org)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nyx%20Dynamics-0077B5)](https://www.linkedin.com/company/nyx-dynamics-llc)
+[![Website](https://img.shields.io/badge/Website-nyxdynamics.org-00D4FF?style=flat-square&logo=googlechrome&logoColor=white)](http://www.nyxdynamics.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nyx--dynamics--llc-00D4FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/nyx-dynamics-llc)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--9216--8569-00D4FF?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9216-8569)
 
 </div>
 
@@ -15,64 +16,54 @@
 
 ## About
 
-Nyx Dynamics is a research consultancy applying computational epidemiology to problems of structural harm. We develop mathematical frameworks demonstrating how systems—biological and institutional—create irreversible damage through timing-dependent integration processes.
+Nyx Dynamics is a research consultancy applying computational epidemiology to problems of structural harm. We develop mathematical frameworks demonstrating how systems — biological and institutional — create irreversible damage through timing-dependent integration processes.
 
-**Core Insight:** *What HIV does to your immune system, biased algorithms do to your life opportunities. The mathematics is identical. The irreversibility is identical.*
+> **Core Insight:** What HIV does to your immune system, biased algorithms do to your life opportunities. The mathematics is identical. The irreversibility is identical.
 
 ---
 
 ## Research Areas
 
-### Algorithmic Epidemiology
-Modeling algorithmic discrimination as an epidemiological process. Demonstrating that feedback loops in employment, housing, and credit systems follow the same mathematical dynamics as viral infection—with the same irreversibility after integration.
+**Algorithmic Epidemiology** — Modeling algorithmic discrimination as an epidemiological process. Demonstrating that feedback loops in employment, housing, and credit systems follow the same mathematical dynamics as viral infection, with the same irreversibility after integration.
 
-### HIV Prevention Science
-Formalizing the biological feasibility constraints on HIV prevention. Demonstrating that prevention failures among marginalized populations reflect structural architecture, not individual behavior.
+**HIV Prevention Science** — Formalizing the biological feasibility constraints on HIV prevention. Demonstrating that prevention failures among marginalized populations reflect structural architecture, not individual behavior.
 
-### HIV Neuroscience
-Computational modeling of the acute-phase protective paradox in HIV-associated neurocognitive disorders. Applying quantum coherence frameworks and hierarchical Bayesian inference to explain why acute infection preserves cognition despite peak viral load.
+**HIV Neuroscience** — Computational modeling of the acute-phase protective paradox in HIV-associated neurocognitive disorders, applying hierarchical Bayesian inference to explain why acute infection preserves cognition despite peak viral load.
 
-### Computational Justice
-Developing quantitative frameworks for civil rights analysis. Translating biological timing constraints into policy recommendations.
+**Computational Justice** — Developing quantitative frameworks for civil rights analysis. Translating biological timing constraints into policy recommendations.
 
-### Quantum Biology
-Computational modeling of quantum coherence preservation in Fibonacci-structured microtubules during HIV-induced neuroinflammation. Proposing a geometric-quantum mechanism for the HAND cognitive paradox.
+**Quantum Biology** — Computational modeling of quantum coherence preservation in Fibonacci-structured microtubules during HIV-induced neuroinflammation. Proposing a geometric-quantum mechanism for the HAND cognitive paradox.
 
-### Meta-Research
-Quantitative audit of editorial gatekeeping at major US medical journals. Measuring the gap between ML/AI competence and publication decisions.
+**Meta-Research** — Quantitative audit of editorial gatekeeping at major US medical journals. Measuring the gap between ML/AI competence and publication decisions.
 
 ---
 
 ## Research Publications
 
-> **2 published** · **5 active submissions** · **7 active research programs**
+**2 published · 6 active submissions · 7 active research programs**
 
 | Manuscript | Status | Preprint | Journal | Repository |
-|:-----------|:------:|:--------:|:-------:|:----------:|
-| **Computational Validation of a CDS Algorithm for LAI-PrEP Bridge Period Navigation at UNAIDS Global Target Scale** | ✅ Published | [DOI](https://doi.org/10.3390/v18020237) | *Viruses* (MDPI) | [lai-prep-bridge-tool-pub](https://github.com/Nyx-Dynamics/lai-prep-bridge-tool-pub) |
-| **Bridging the Gap: The PrEP Cascade Paradigm Shift for Long-Acting Injectable HIV Prevention** | ✅ Published | [Preprints.org](https://doi.org/10.20944/preprints202512.2354.v1) · [DOI](https://doi.org/10.3390/v18030336) | *Viruses* (MDPI) | [bridging_the_gap](https://github.com/Nyx-Dynamics/bridging_the_gap) |
-| **Finite Prevention Windows Under Irreversible Infection Establishment: A Mathematical Framework for HIV PEP Timing** | 📋 Desk Review | [Preprints.org](https://doi.org/10.20944/preprints202601.1090.v1) | *Science Advances* | [Prevention-Theorem](https://github.com/Nyx-Dynamics/Prevention-Theorem) |
-| **Quantum Coherence Preservation in Fibonacci-Structured Microtubules During HIV-Induced Neuroinflammation** | 📄 Preprint | [bioRxiv](https://doi.org/10.1101/2025.06.08.658222) · [Zenodo](https://doi.org/10.5281/zenodo.15601418) · 487 downloads | — | — |
-| **Quantitative Competence and Editorial Gatekeeping at Major US Medical Journals** | 🔬 Under Review | [Zenodo](https://doi.org/10.5281/zenodo.18826439) | *BMJ* | [eic-ml-audit](https://github.com/Nyx-Dynamics/eic-ml-audit) |
-| **Structural Barriers, Stochastic Avoidance, and Outbreak Risk in HIV Prevention for PWID: A Monte Carlo Simulation Study** | 🔬 Under Review | [Preprints.org](https://doi.org/10.20944/preprints202601.0948.v1) · 134 downloads | *BMC Public Health* | [HIV_Prevention_PWID](https://github.com/Nyx-Dynamics/HIV_Prevention_PWID) |
-| **Noise Correlation Length Distinguishes Neurometabolic Protection from Vulnerability Across HIV Infection Phases** | 🔬 Under Review | [medRxiv](https://doi.org/10.64898/2026.02.10.703895) | *eLife* | [noise_decorrelation_hiv](https://github.com/Nyx-Dynamics/noise_decorrelation_hiv) |
-| **Algorithmic Discrimination as a Synergistic Barrier System: A Quantitative Interaction-Dominant Model** | 🔬 Under Review | [medRxiv](https://doi.org/10.64898/2026.02.22.26346836) · [Zenodo](https://doi.org/10.5281/zenodo.18746745) | *PLOS Digital Health* | [algorithmic-bias-epidemiology-academic](https://github.com/Nyx-Dynamics/algorithmic-bias-epidemiology-academic) |
+|---|---|---|---|---|
+| Computational Validation of a CDS Algorithm for LAI-PrEP Bridge Period Navigation at UNAIDS Global Target Scale | ✅ Published | [DOI](#) | *Viruses* (MDPI) | [`lai-prep-bridge-tool-pub`](https://github.com/Nyx-Dynamics) |
+| Bridging the Gap: The PrEP Cascade Paradigm Shift for Long-Acting Injectable HIV Prevention | ✅ Published | [Preprints.org · DOI](#) | *Viruses* (MDPI) | [`bridging_the_gap`](https://github.com/Nyx-Dynamics) |
+| Finite Prevention Windows Under Irreversible Infection Establishment: A Mathematical Framework for HIV PEP Timing | 🔬 Under Review | [Preprints.org](#) | *Science Advances* | [`Prevention-Theorem`](https://github.com/Nyx-Dynamics) |
+| Structural Barriers, Stochastic Avoidance, and Outbreak Risk in HIV Prevention for PWID: A Monte Carlo Simulation Study | 🔬 Under Review | [Preprints.org](#) | *BMC Public Health* | [`HIV_Prevention_PWID`](https://github.com/Nyx-Dynamics) |
+| Calibration-to-Deployment Mismatch in HIV Prevention Trials: How Structural Censoring Biases Counterfactual Incidence Estimates | 📝 In Preparation | — | *JAIDS* | [`nyx-kassanjee-letter`](https://github.com/Nyx-Dynamics) |
+| Quantum Coherence Preservation in Fibonacci-Structured Microtubules During HIV-Induced Neuroinflammation | 📄 Preprint | [bioRxiv · Zenodo](#) | — | — |
+| Noise Correlation Length Distinguishes Neurometabolic Protection from Vulnerability Across HIV Infection Phases | 🔬 Under Review | [medRxiv](#) | *eLife* | [`noise_decorrelation_hiv`](https://github.com/Nyx-Dynamics) |
+| Algorithmic Discrimination as a Synergistic Barrier System: A Quantitative Interaction-Dominant Model | 🔬 Under Review | [medRxiv · Zenodo](#) | *PLOS Digital Health* | [`algorithmic-bias-epidemiology-academic`](https://github.com/Nyx-Dynamics) |
+| Quantitative Competence and Editorial Gatekeeping at Major US Medical Journals | 🔬 Under Review | [Zenodo](#) | *BMJ* | [`eic-ml-audit`](https://github.com/Nyx-Dynamics) |
 
-**Status Key:** ✅ Published · 📋 Desk Review · 📄 Preprint · 🔬 Under Review
+**Status Key:** ✅ Published · 📝 In Preparation · 📄 Preprint · 🔬 Under Review
 
 ---
 
 ## The Prevention Theorem
 
-<div align="center">
+> Once proviral integration is complete, no intervention restores the uninfected state.
+> Once data integration is complete, no intervention restores lost opportunity.
 
-```
-Once proviral integration is complete, no intervention restores the uninfected state.
-Once data integration is complete, no intervention restores lost opportunity.
 PEP efficacy decays monotonically to zero. The window is finite. The math is identical.
-```
-
-</div>
 
 Prevention has a deadline. After irreversible integration — biological or algorithmic — only treatment remains. This principle unifies our work across biological and institutional systems.
 
@@ -92,11 +83,10 @@ pip install -r requirements.txt
 
 ## Contact
 
-**AC Demidont, DO**
-Founder & Principal Investigator
+**AC Demidont, DO** — Founder & Principal Investigator
 
-[![Email](https://img.shields.io/badge/Email-acdemidont%40nyxdynamics.org-red)](mailto:acdemidont@nyxdynamics.org)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--9216--8569-green)](https://orcid.org/0000-0002-9216-8569)
+[![Email](https://img.shields.io/badge/Email-acdemidont@nyxdynamics.org-00D4FF?style=flat-square&logo=maildotru&logoColor=white)](mailto:acdemidont@nyxdynamics.org)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--9216--8569-00D4FF?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9216-8569)
 
 ---
 
@@ -104,8 +94,6 @@ Founder & Principal Investigator
 
 *"We study the mathematics of irreversibility — and the narrow windows where prevention remains possible."*
 
-**© 2026 Nyx Dynamics LLC**
-
-*Last updated: April 21, 2026*
+© 2026 Nyx Dynamics LLC · Last updated: May 28, 2026
 
 </div>
