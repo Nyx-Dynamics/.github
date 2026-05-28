@@ -44,17 +44,17 @@ Nyx Dynamics is a research consultancy applying computational epidemiology to pr
 
 | Manuscript | Status | Preprint | Journal | Repository |
 |---|---|---|---|---|
-| Computational Validation of a CDS Algorithm for LAI-PrEP Bridge Period Navigation at UNAIDS Global Target Scale | ✅ Published | [DOI](#) | *Viruses* (MDPI) | [`lai-prep-bridge-tool-pub`](https://github.com/Nyx-Dynamics) |
-| Bridging the Gap: The PrEP Cascade Paradigm Shift for Long-Acting Injectable HIV Prevention | ✅ Published | [Preprints.org · DOI](#) | *Viruses* (MDPI) | [`bridging_the_gap`](https://github.com/Nyx-Dynamics) |
-| Finite Prevention Windows Under Irreversible Infection Establishment: A Mathematical Framework for HIV PEP Timing | 🔬 Under Review | [Preprints.org](#) | *Science Advances* | [`Prevention-Theorem`](https://github.com/Nyx-Dynamics) |
-| Structural Barriers, Stochastic Avoidance, and Outbreak Risk in HIV Prevention for PWID: A Monte Carlo Simulation Study | 🔬 Under Review | [Preprints.org](#) | *BMC Public Health* | [`HIV_Prevention_PWID`](https://github.com/Nyx-Dynamics) |
-| Calibration-to-Deployment Mismatch in HIV Prevention Trials: How Structural Censoring Biases Counterfactual Incidence Estimates | 📝 In Preparation | — | *JAIDS* | [`nyx-kassanjee-letter`](https://github.com/Nyx-Dynamics) |
-| Quantum Coherence Preservation in Fibonacci-Structured Microtubules During HIV-Induced Neuroinflammation | 📄 Preprint | [bioRxiv · Zenodo](#) | — | — |
-| Noise Correlation Length Distinguishes Neurometabolic Protection from Vulnerability Across HIV Infection Phases | 🔬 Under Review | [medRxiv](#) | *eLife* | [`noise_decorrelation_hiv`](https://github.com/Nyx-Dynamics) |
-| Algorithmic Discrimination as a Synergistic Barrier System: A Quantitative Interaction-Dominant Model | 🔬 Under Review | [medRxiv · Zenodo](#) | *PLOS Digital Health* | [`algorithmic-bias-epidemiology-academic`](https://github.com/Nyx-Dynamics) |
-| Quantitative Competence and Editorial Gatekeeping at Major US Medical Journals | 🔬 Under Review | [Zenodo](#) | *BMJ* | [`eic-ml-audit`](https://github.com/Nyx-Dynamics) |
+| Computational Validation of a CDS Algorithm for LAI-PrEP Bridge Period Navigation at UNAIDS Global Target Scale |  Published | [DOI](#) | *Viruses* (MDPI) | [`lai-prep-bridge-tool-pub`](https://github.com/Nyx-Dynamics) |
+| Bridging the Gap: The PrEP Cascade Paradigm Shift for Long-Acting Injectable HIV Prevention |  Published | [Preprints.org · DOI](#) | *Viruses* (MDPI) | [`bridging_the_gap`](https://github.com/Nyx-Dynamics) |
+| Finite Prevention Windows Under Irreversible Infection Establishment: A Mathematical Framework for HIV PEP Timing | In Peer Review | [Preprints.org](#) | *Science Advances* | [`Prevention-Theorem`](https://github.com/Nyx-Dynamics) |
+| Structural Barriers, Stochastic Avoidance, and Outbreak Risk in HIV Prevention for PWID: A Monte Carlo Simulation Study | In Peer Review | [Preprints.org](#) | *BMC Public Health* | [`HIV_Prevention_PWID`](https://github.com/Nyx-Dynamics) |
+| Calibration-to-Deployment Mismatch in HIV Prevention Trials: How Structural Censoring Biases Counterfactual Incidence Estimates | 🔬 Under Review | — | *JAIDS* | [`nyx-kassanjee-letter`](https://github.com/Nyx-Dynamics) |
+| Quantum Coherence Preservation in Fibonacci-Structured Microtubules During HIV-Induced Neuroinflammation |  Preprint | [bioRxiv · Zenodo](#) | — | — |
+| Noise Correlation Length Distinguishes Neurometabolic Protection from Vulnerability Across HIV Infection Phases |🔬 Under Review | [medRxiv](#) | *eLife* | [`noise_decorrelation_hiv`](https://github.com/Nyx-Dynamics) |
+| Algorithmic Discrimination as a Synergistic Barrier System: A Quantitative Interaction-Dominant Model | Under Review | [medRxiv · Zenodo](#) | *PLOS Digital Health* | [`algorithmic-bias-epidemiology-academic`](https://github.com/Nyx-Dynamics) |
+| Quantitative Competence and Editorial Gatekeeping at Major US Medical Journals | In Preparation | [Zenodo](#) | *BMJ* | [`eic-ml-audit`](https://github.com/Nyx-Dynamics) |
 
-**Status Key:** ✅ Published · 📝 In Preparation · 📄 Preprint · 🔬 Under Review
+
 
 ---
 
