@@ -50,7 +50,7 @@ Nyx Dynamics is a research consultancy applying computational epidemiology to pr
 | Structural Barriers, Stochastic Avoidance, and Outbreak Risk in HIV Prevention for PWID: A Monte Carlo Simulation Study | In Peer Review | [Preprints.org](#) | *BMC Public Health* | [`HIV_Prevention_PWID`](https://github.com/Nyx-Dynamics) |
 | Calibration-to-Deployment Mismatch in HIV Prevention Trials: How Structural Censoring Biases Counterfactual Incidence Estimates |  Under Review | — | *JAIDS* | [`nyx-kassanjee-letter`](https://github.com/Nyx-Dynamics) |
 | Quantum Coherence Preservation in Fibonacci-Structured Microtubules During HIV-Induced Neuroinflammation |  Preprint | [bioRxiv · Zenodo](#) | — | — |
-| Noise Correlation Length Distinguishes Neurometabolic Protection from Vulnerability Across HIV Infection Phases |🔬 Under Review | [medRxiv](#) | *eLife* | [`noise_decorrelation_hiv`](https://github.com/Nyx-Dynamics) |
+| Noise Correlation Length Distinguishes Neurometabolic Protection from Vulnerability Across HIV Infection Phases | Under Review | [medRxiv](#) | *eLife* | [`noise_decorrelation_hiv`](https://github.com/Nyx-Dynamics) |
 | Algorithmic Discrimination as a Synergistic Barrier System: A Quantitative Interaction-Dominant Model | Under Review | [medRxiv · Zenodo](#) | *PLOS Digital Health* | [`algorithmic-bias-epidemiology-academic`](https://github.com/Nyx-Dynamics) |
 | Quantitative Competence and Editorial Gatekeeping at Major US Medical Journals | In Preparation | [Zenodo](#) | *BMJ* | [`eic-ml-audit`](https://github.com/Nyx-Dynamics) |
 
